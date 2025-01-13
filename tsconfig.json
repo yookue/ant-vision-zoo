@@ -1,0 +1,40 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "declaration": true,
+        "esModuleInterop": true,
+        "jsx": "react-jsx",
+        "moduleResolution": "node",
+        "target": "es2015",
+        "lib": ["dom", "es2019"],
+        "removeComments": true,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "paths": {
+            "#/*": [
+                "./*"
+            ],
+            "@/*": [
+                "./src/*"
+            ],
+            "@yookue/ant-vision-zoo": [
+                "./src"
+            ],
+            "@yookue/ant-vision-zoo/*": [
+                "./src/*",
+            ],
+            "@@/*": [
+                "./src/.umi/*"
+            ]
+        }
+    },
+    "include": [
+        "src/**/*",
+    ],
+    "exclude": [
+        "node_modules",
+        "dist",
+        "docs-dist"
+    ]
+}

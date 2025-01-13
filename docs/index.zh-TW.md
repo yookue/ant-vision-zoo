@@ -1,0 +1,26 @@
+---
+title: 首頁
+order: 1
+hero:
+  title: Ant Vision Zoo
+  desc: 🏅 開箱即用的 React & AntV 增強組件 ❤️
+  actions:
+    - text: 快速上手
+      link: /zh-CN/guide
+features:
+  - icon: ./assets/img/home/out-box-1.png
+    title: 開箱即用
+    desc: 🪄 熟悉 AntV 可快速上手，讓您專註於業務邏輯
+  - icon: ./assets/img/home/dev-code-1.png
+    title: 豐富組件
+    desc: 💎 不斷完善的 React 組件，與 AntV 如出一轍
+  - icon: ./assets/img/home/green-leaf-1.png
+    title: 主題支持
+    desc: 🎨 支持 Ant Design Pro 主題樣式，更多樣式，隨心控製
+footer: Open-source MIT Licensed<br/>版權所有 © 2025 北京攸科網咯科技有限公司
+---
+
+
+## 反饋
+
+請訪問 [GitHub](https://github.com/yookue/ant-vision-zoo) 反饋問題或參與討論。
