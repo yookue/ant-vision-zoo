@@ -26,7 +26,7 @@ import '@antv/xflow-extension/es/flowchart-editor-panel/style.less';
 import {ObjectUtils} from '@yookue/ts-lang-utils';
 import {defaultControlMapService} from './control-map-service';
 import {intlLocales} from './form-schema-service/intl-locales';
-
+import './form-panel.less';
 
 
 export type IntlLocaleProps = {

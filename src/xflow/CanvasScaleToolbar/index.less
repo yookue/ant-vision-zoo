@@ -22,12 +22,22 @@
 
 
 .xflow-app-workspace {
-    > .xflow-node-panel-collpase {
-        z-index: 100;
+    > .xflow-canvas-root {
+        > .xflow-x6-canvas {
+            background: @component-background;
+        }
+    }
 
-        .xflow-node-panel-official-search > .xflow-node-panel-node-wrapper,
-        .xflow-node-panel-custom-search > .xflow-node-panel-node-wrapper {
-            max-height: 40px;
+    > .xflow-canvas-scale-toolbar {
+        background-color: transparent;
+        z-index: 100;
+    }
+
+    > .xflow-canvas-toolbar {
+        background: @component-background;
+
+        &.horizontal {
+            border-bottom: @border-width-base @border-style-base @border-color-split;
         }
     }
 }

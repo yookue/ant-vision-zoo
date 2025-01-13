@@ -23,6 +23,7 @@ import {ObjectUtils} from '@yookue/ts-lang-utils';
 import omit from 'rc-util/es/omit';
 import {useScaleToolbarConfig} from './use-config';
 import {intlLocales} from './intl-locales';
+import './index.less';
 
 
 export type IntlLocaleProps = {
@@ -118,6 +119,7 @@ export const CanvasScaleToolbar: React.FC<CanvasScaleToolbarProps> = (props?: Ca
 
     return (
         <CanvasToolbar
+            className='xflow-canvas-scale-toolbar'
             config={toolbarConfig}
             layout={layout}
             position={position}

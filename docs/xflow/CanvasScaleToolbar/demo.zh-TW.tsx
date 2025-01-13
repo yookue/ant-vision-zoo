@@ -29,7 +29,7 @@ export default () => {
                 flowId: '001',
             }}
             style={{
-                height: '420px',
+                height: '460px',
                 position: 'relative',
                 borderRadius: '2px',
             }}
@@ -40,7 +40,6 @@ export default () => {
         >
             <FlowchartExtension/>
             <CanvasScaleToolbar
-                className='xflow-canvas-toolbar-top'
                 layout='horizontal'
                 position={{
                     top: 0,
