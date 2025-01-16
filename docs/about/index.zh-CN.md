@@ -16,7 +16,7 @@ nav:
 您可以通过以下方式访问我们：
 
 - Yookue: [https://yookue.com](https://yookue.com)
-- GitHub: [https://github.com/yookue/ant-vision-zoo](https://github.com/yookue/ant-vision-zoo)
+- GitHub: [https://github.com/yookue](https://github.com/yookue)
 
 ## 特别感谢
 
