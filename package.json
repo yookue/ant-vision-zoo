@@ -36,9 +36,9 @@
     "dependencies": {
         "@ant-design/icons": "^4.8.3",
         "@ant-design/pro-provider": "^1.10.0",
-        "@antv/xflow": "^1.0.55",
+        "@antv/xflow": "^1.1.52",
         "@babel/runtime": "^7.26.0",
-        "@yookue/ts-lang-utils": "~0.1.75",
+        "@yookue/ts-lang-utils": "~0.1.76",
         "@yookue/ts-multi-map": "~0.1.31",
         "lodash": "^4.17.21",
         "react": "^18.2.0",
@@ -47,9 +47,9 @@
     },
     "devDependencies": {
         "@types/lodash": "^4.17.14",
-        "@types/react": "^18.2.0",
+        "@types/react": "^18.2.64",
         "@types/react-color": "^3.0.13",
-        "@types/react-dom": "^18.2.0",
+        "@types/react-dom": "^18.2.21",
         "@typescript-eslint/eslint-plugin": "^7.18.0",
         "@yookue/babel-plugin-remove-comment": "~0.1.5",
         "babel-plugin-import": "^1.13.8",
