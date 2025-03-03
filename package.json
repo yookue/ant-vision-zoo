@@ -38,7 +38,7 @@
         "@ant-design/pro-provider": "^1.10.0",
         "@antv/xflow": "^1.1.52",
         "@babel/runtime": "^7.26.9",
-        "@yookue/ts-lang-utils": "~0.1.78",
+        "@yookue/ts-lang-utils": "~0.1.79",
         "@yookue/ts-multi-map": "~0.1.32",
         "lodash": "^4.17.21",
         "react": "^18.2.0",
